@@ -1,0 +1,12 @@
+C:\Users\r_kawano\Source\Repos\FightingGame\ActionTool\ActionTool\bin\Release\ActionTool.exe.config
+C:\Users\r_kawano\Source\Repos\FightingGame\ActionTool\ActionTool\bin\Release\ActionTool.exe
+C:\Users\r_kawano\Source\Repos\FightingGame\ActionTool\ActionTool\bin\Release\ActionTool.pdb
+C:\Users\r_kawano\Source\Repos\FightingGame\ActionTool\ActionTool\obj\Release\ActionTool.csprojResolveAssemblyReference.cache
+C:\Users\r_kawano\Source\Repos\FightingGame\ActionTool\ActionTool\obj\Release\ActionTool.frmImage.resources
+C:\Users\r_kawano\Source\Repos\FightingGame\ActionTool\ActionTool\obj\Release\ActionTool.frmPreview.resources
+C:\Users\r_kawano\Source\Repos\FightingGame\ActionTool\ActionTool\obj\Release\ActionTool.frmRectTypeCatalog.resources
+C:\Users\r_kawano\Source\Repos\FightingGame\ActionTool\ActionTool\obj\Release\ActionTool.Properties.Resources.resources
+C:\Users\r_kawano\Source\Repos\FightingGame\ActionTool\ActionTool\obj\Release\ActionTool.csproj.GenerateResource.cache
+C:\Users\r_kawano\Source\Repos\FightingGame\ActionTool\ActionTool\obj\Release\ActionTool.csproj.CoreCompileInputs.cache
+C:\Users\r_kawano\Source\Repos\FightingGame\ActionTool\ActionTool\obj\Release\ActionTool.exe
+C:\Users\r_kawano\Source\Repos\FightingGame\ActionTool\ActionTool\obj\Release\ActionTool.pdb
